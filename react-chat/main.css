@@ -1,0 +1,88 @@
+.ChatList__container--3WJ9- {
+    background-color: gray;
+    border: 1px solid black;
+    flex-grow: 1;
+    z-index: 1;
+}
+
+.ChatList__drawer--2TIdC {
+    width: 240px;
+    flex-shrink: 0;
+    z-index: 1;
+  }
+
+.ChatList__drawerpaper--Neg0O {
+    width: 240px;
+}
+
+.ChatList__chatlink--D9ttQ {
+    text-decoration: none;
+    color: inherit;
+    
+}
+
+.ChatList__chatname--1ha6h {
+    text-align: center;
+}
+.Header__root--O9oW9 {
+    display: flex;
+    z-index: 2;
+}
+
+.Header__title--3Wcfe {
+    flex-grow: 1;
+}
+.Layout__root--1DyeL {
+    display: flex;
+}
+
+.Layout__wrapper--JTR6W {
+    display: flex; 
+    width: 100%;
+     
+}
+.Messages__list--2U3-Z {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    height: 400px;
+}
+
+.Messages__item--3RPl8 {
+    max-width: 250px;
+}
+
+.Messages__left--1lR08 {
+    align-self: flex-start;
+}
+
+.Messages__right--3OzwS {
+    align-self: flex-end;
+}
+.Chats__container--2Glbp {
+    background-color: burlywood;
+    border: 1px solid black;
+    flex-grow: 3;
+    padding: 10px;
+}
+
+.Chats__form--1PjNC {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.Chats__messageField--3isNa {
+    margin-bottom: 10px;
+    width: 100%;
+}
+.Profile__root--1pkpD {
+    display: flex;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+/*# sourceMappingURL=main.css.map*/

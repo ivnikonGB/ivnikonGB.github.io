@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "text": "Hi from first chat",
+        "author": "Bot",
+        "chatId": 1
+    },
+    {
+        "id": 2,
+        "text": "Hi from second chat",
+        "author": "Bot",
+        "chatId": 2
+    },
+    {
+        "id": 3,
+        "text": "Hi from third chat",
+        "author": "Bot",
+        "chatId": 3
+    }
+]
